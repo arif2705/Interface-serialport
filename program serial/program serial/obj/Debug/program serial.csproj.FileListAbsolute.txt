@@ -1,0 +1,12 @@
+F:\vs2012\program serial\program serial\bin\Debug\program serial.exe.config
+F:\vs2012\program serial\program serial\bin\Debug\program serial.exe
+F:\vs2012\program serial\program serial\bin\Debug\program serial.pdb
+F:\vs2012\program serial\program serial\obj\Debug\program serial.csprojResolveAssemblyReference.cache
+F:\vs2012\program serial\program serial\obj\Debug\program_serial.Form1.resources
+F:\vs2012\program serial\program serial\obj\Debug\program_serial.Properties.Resources.resources
+F:\vs2012\program serial\program serial\obj\Debug\program serial.csproj.GenerateResource.Cache
+F:\vs2012\program serial\program serial\obj\Debug\program serial.exe
+F:\vs2012\program serial\program serial\obj\Debug\program serial.pdb
+G:\program serial\program serial\bin\Debug\program serial.exe.config
+G:\program serial\program serial\obj\Debug\program serial.exe
+G:\program serial\program serial\obj\Debug\program serial.pdb
